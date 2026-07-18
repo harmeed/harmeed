@@ -8,7 +8,6 @@
 <h4 align="center">Building Reliable, Secure APIs That Scale</h4>
 
 <p align="center">
-  
 <a href="https://linkedin.com/in/hammed-odewale-8535b620b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5">
 <a href="https://twitter.com/hammed_odewale"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2"></a>
 </p>
